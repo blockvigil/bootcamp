@@ -1,6 +1,6 @@
 # BlockVigil Remote Bootcamp
 
-This repository gives a preview of what our remote bootcamp offers.
+This repository gives a preview of what our remote bootcamp offers. Our grant is open to funding on [Gitcoin](https://gitcoin.co/grants/845/remote-developer-bootcamp)!
 
 ## Cohort 1
 
@@ -27,4 +27,5 @@ This repository gives a preview of what our remote bootcamp offers.
 [Summary and code](./C02S05)
 
 Full video:
+
 [![Full Session 5](https://img.youtube.com/vi/klFkJHSFgQQ/0.jpg)](https://youtu.be/klFkJHSFgQQ)
