@@ -1,5 +1,8 @@
 ## Summary of Session 05
 
+[![Full Video](https://img.youtube.com/vi/klFkJHSFgQQ/0.jpg)](https://youtu.be/klFkJHSFgQQ)
+
+
 Primer reading:
 
 * [Blog post: Signing and verifying messages on Ethereum](https://programtheblockchain.com/posts/2018/02/17/signing-and-verifying-messages-in-ethereum/)
