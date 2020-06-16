@@ -13,9 +13,9 @@ This repository gives a preview of what our remote bootcamp offers.
 	* Two teams participated in EthGlobal's #HackMoney
 	* [Aditya Vijaykumar won Sia (Skynet) bounty of 500,000 SC (~700 USD)](https://medium.com/blockvigil/bootcamp-hero-2fba30e488f8)
 
-### SpeedRun Video
+### Highlight Video
 
-[![Cover Image](https://img.youtube.com/vi//0.jpg)](https://youtu.be)
+[![Highlight Video](https://img.youtube.com/vi/jryF8Wa6s5Q/0.jpg)](https://youtu.be/jryF8Wa6s5Q)
 
 ## Cohort 2
 
@@ -26,4 +26,5 @@ This repository gives a preview of what our remote bootcamp offers.
 ### Example Session
 [Summary and code](./C02S05)
 
-Full video: [![Full Session 5](https://img.youtube.com/vi/klFkJHSFgQQ/0.jpg)](https://youtu.be/klFkJHSFgQQ)
+Full video:
+[![Full Session 5](https://img.youtube.com/vi/klFkJHSFgQQ/0.jpg)](https://youtu.be/klFkJHSFgQQ)
