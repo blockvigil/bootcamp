@@ -1,0 +1,16 @@
+{
+  "name": "session05",
+  "version": "0.1.1",
+  "description": "",
+  "main": "multisig_interaction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Swaroop Hegde",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "ethers": "^4.0.0",
+    "web3-eth-accounts": "^1.2.9"
+  }
+}

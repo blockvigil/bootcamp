@@ -1,0 +1,5 @@
+eth_utils == 1.7.0
+eth_account == 0.4.0
+eth_abi == 2.0.0
+
+git+https://github.com/blockvigil/ethvigil-python-sdk.git
