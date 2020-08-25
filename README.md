@@ -21,7 +21,12 @@ This repository gives a preview of what our remote bootcamp offers. Our grant is
 
 * [Announcement](https://medium.com/blockvigil/announcing-the-blockvigil-remote-developer-bootcamp-2nd-edition-27f3d4c21eee)
 
-* **Duration**: _Ongoing (started on 1st June with 40 students)_
+* **Duration**: _1st - 30th June 2020_
+
+* **Results**:
+	* 8/40 students progressed to the final session.
+	* Three teams participated in EthGlobal's #HackFS
+	* [BlockSig was a finalist and along with Team Azureus won bounties from Fleek](https://medium.com/blockvigil/hackfs-results-remote-developer-bootcamp-announcement-cd3263757fe5)
 
 ### Example Session
 [Summary and code](./C02S05)
@@ -29,3 +34,11 @@ This repository gives a preview of what our remote bootcamp offers. Our grant is
 Full video:
 
 [![Full Session 5](https://img.youtube.com/vi/klFkJHSFgQQ/0.jpg)](https://youtu.be/klFkJHSFgQQ)
+
+## Cohort 3
+
+* [Announcement](https://medium.com/blockvigil/hackfs-results-remote-developer-bootcamp-announcement-cd3263757fe5)
+
+* **Duration**: _Announced (starts on 1st September)_
+
+* [Kick Off/Orientation Session](https://www.airmeet.com/e/fe7168b0-e60d-11ea-acf1-154614bb25d5)
